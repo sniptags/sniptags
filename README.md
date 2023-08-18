@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center"><img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="20%" height="20%"/></div>
+<p align="center" color="#FF5F00" font-size="20px"><b>I'm Gagandeep Singh</b></p>
+<br>
+
+
+
+## <picture><img src = "https://media.giphy.com/media/JxtrIHKVMy03BmNH4a/giphy.gif" width = 30px></picture> <b>About me</b></div>
 
 <!--
 **sniptags/sniptags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
