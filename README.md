@@ -1,7 +1,7 @@
 
 <div align=center><img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="200px" height="150px"/></div>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<picture> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=FF5F00&height=40&lines=Hi%2C+I'm+Gagandeep;Full+Stack+Developer;Computer+Science+Graduate;Problem+Solver"></picture>
+<picture> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=FF5F00&height=40&lines=Hi%2C+I'm+Gagandeep;Full+Stack+Developer;Computer+Science+Graduate;+++Problem+Solver"></picture>
 <br>
 <img src="https://komarev.com/ghpvc/?username=sniptags">
 
