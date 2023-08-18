@@ -19,7 +19,6 @@
     <td>
       <h2><picture><img src = "https://media.giphy.com/media/FQEtWzF1NYIBjKFAoN/giphy.gif" width = 35px></picture>Connect With Me</h2>
        <br>
-      <br>
       <div align=center>
       <a href="https://www.linkedin.com/in/gdeep-thind/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
       <a href="http://gsingh.me.s3-website-us-west-2.amazonaws.com"><img src="https://github.com/sniptags/sniptags/assets/77214044/85a76d0d-f556-48ce-a4b6-dac7442bce15" width=50px></a>
